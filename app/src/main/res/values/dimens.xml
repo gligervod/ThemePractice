@@ -2,4 +2,6 @@
 <resources>
     <dimen name="screenMargin">16dp</dimen>
     <dimen name="rightColumn">100dp</dimen>
+    <dimen name="primaryFontSize">16sp</dimen>
+    <dimen name="buttoneHeight">40dp</dimen>
 </resources>

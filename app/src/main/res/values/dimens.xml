@@ -4,4 +4,5 @@
     <dimen name="rightColumn">100dp</dimen>
     <dimen name="primaryFontSize">16sp</dimen>
     <dimen name="buttoneHeight">40dp</dimen>
+    <dimen name="listPadding">8dp</dimen>
 </resources>

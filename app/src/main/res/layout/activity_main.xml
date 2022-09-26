@@ -61,12 +61,12 @@
             android:layout_column="0"
             android:layout_columnSpan="2"
             android:layout_gravity="center"
-            android:text="Buttone"
             android:textAllCaps="false"
+            android:text="Buttone"
             android:backgroundTintMode="src_atop"
             app:iconPadding="4dp"
             app:rippleColor="@color/secondaryDarkColor"
-            android:style="@style/buttone"/>
+        />
 
 
     </GridLayout>
